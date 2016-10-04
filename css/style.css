@@ -1,0 +1,29 @@
+h1{
+  font-family:Lobster;
+  font-size:450%;
+}
+.header-bg{
+  background-color:#109af7;
+  color:white;
+  padding:15%
+}
+.portfolio-bg{
+  background-color:#f6f6f6;
+  color:;
+  padding:2%;
+}
+.picpadding{
+  padding:4% 4%;
+}
+.contact-bg{
+  background-color:#4caf50;
+  padding:7%;
+}
+body{
+  font-family:Montserrat;
+}
+.footer-bg{
+  background-color:#4D4D4D;
+  color:#ffffff;
+  padding:2%
+}
